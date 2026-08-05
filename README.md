@@ -9,7 +9,6 @@ Interests:
 - Computer Architecture
 - Digital Electronics
 - Hardware–Software Systems
-- Embedded Systems
 
 Outside tech:
 - Gaming 🎮
