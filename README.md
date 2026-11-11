@@ -2,7 +2,7 @@
 
 ECE student interested in VLSI Design, Computer Architecture, and Digital Systems.
 
-Currently exploring hardware design, semiconductor technology, and the fundamentals behind modern processors. My long-term goal is to design my own CPU and GPU from scratch.
+Currently exploring hardware design, semiconductor technology, and the fundamentals behind modern processors.
 
 Interests:
 - VLSI Design & RTL Design
